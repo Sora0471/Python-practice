@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Discord おみくじBot
+# Discord お遊びBot
 
 Pythonで作成したDiscord Botです。
 
@@ -7,13 +6,17 @@ Pythonで作成したDiscord Botです。
 
 - !hello で挨拶
 - !omikuji でおみくじ
+- !janken グー でBotとじゃんけん
 
 ## Environment
 
 - Python
 - discord.py
-=======
-Python学習用リポジトリです。
+
+
+## Python学習用リポジトリ
+
+Python学習中に作成した作品をまとめています。
 
 ## 作品
 
@@ -25,16 +28,3 @@ Python学習用リポジトリです。
 - 数当てゲーム
 
 現在はPythonを学習中です。
-# Discord おみくじBot
-
-Pythonで作成したDiscord Botです。
-
-## Features
-
-- !hello で挨拶
-- !omikuji でおみくじ
-
-## Environment
-
-- Python
-- discord.py
